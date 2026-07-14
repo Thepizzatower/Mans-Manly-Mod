@@ -32,7 +32,3 @@ A BepInEx mod for **Ages of Conflict: World War Simulator** by **man_82**.
 
 Updates after that are automatic.
 
-## Building
-
-MSBuild against the game's `Managed` folder (paths in `FlagMapMod.csproj`).
-`release.ps1` builds, tags, and publishes a release plus the update manifest.

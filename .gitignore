@@ -1,0 +1,5 @@
+# Everything except the public files stays local
+*
+!.gitignore
+!README.md
+!latest.txt

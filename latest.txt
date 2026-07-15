@@ -1,2 +1,2 @@
-2.21.1
-https://github.com/Thepizzatower/Mans-Manly-Mod/releases/download/v2.21.1/MansManlyModpack.dll
+2.22.0
+https://github.com/Thepizzatower/Mans-Manly-Mod/releases/download/v2.22.0/MansManlyModpack.dll
